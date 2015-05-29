@@ -1,4 +1,2 @@
-# angularApp
-basic infra for angular in master branch
-#dev branch
-will have the specific code
+#dev branch for pnr app
+will have the specific code for pnr app
