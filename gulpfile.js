@@ -20,7 +20,6 @@ gulp.task('scripts', function() {
         .pipe(concat('all.js'))
         .pipe(gulp.dest('dist'))
         .pipe(rename('all.min.js'))
-        .pipe(uglify())
         .pipe(gulp.dest('dist'));
 });
 
